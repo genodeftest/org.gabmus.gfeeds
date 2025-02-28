@@ -76,7 +76,7 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://gitlab.com/gabmus/syndication-domination",
+                    "url": "https://gitlab.com/gabmus/syndication-domination.git",
                     "commit": "75920321062d682437f3fb0319dad227d8b18f6c"
                 }
             ],
